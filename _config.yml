@@ -1,16 +1,32 @@
-title : Miléna
-description : student at Centrale supelec
-theme : jekyll-theme-chirpy
 
-# For a User/Organization site (username.github.io), keep it as ''.
-# For a Project site (username.github.io/project), set it to '/project'[reference:3].
-baseurl: ''
+# 1. IMPORTER LE THÈME (OBLIGATOIRE)
+theme: jekyll-theme-chirpy
 
-# The full protocol and hostname of your site.
-# e.g., 'https://username.github.io' or your custom domain[reference:4][reference:5]
-url: 'https://milenacdg.github.io'
-lang: en
-timezone: ''
+# 2. CONFIGURATION DE BASE DU SITE (OBLIGATOIRE)
+lang: en                      # Langue du site
+timezone: Europe/Paris        # Ton fuseau horaire
+title: My Portfolio          # Le titre principal
+tagline:  Student at Centrale supelec  # Sous-titre
 
-tagline: test tagline
+# 3. URL ET BASEURL (OBLIGATOIRE POUR LE BON AFFICHAGE)
+# Pour un site utilisateur (username.github.io) :
+url: "https://milenacdg.github.io"
+baseurl: ""                   # Laisser vide
 
+# Pour un site projet (username.github.io/mon-projet) :
+# url: "https://username.github.io"
+# baseurl: "/mon-projet"
+
+# 4. INFORMATIONS PERSONNELLES (OBLIGATOIRE)
+social:
+  name: "Ton Nom Complet"     # Sera affiché dans le footer
+github:
+  username: ton_pseudo_github
+twitter:
+  username: ton_pseudo_twitter  # (ou supprime cette ligne si tu n'as pas Twitter)
+
+# 5. AVATAR (RECOMMANDÉ)
+avatar: /assets/img/avatar.png  # Met ton image dans assets/img/
+
+# 6. OPTIONS GÉNÉRALES (RECOMMANDÉ)
+toc: true                     # Active la table des matières dans les articles
