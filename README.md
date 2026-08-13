@@ -9,14 +9,14 @@ Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec
 ![Image or screenshot if you like](link-to-an-image)
 
 **Description**: A brief description of this project, what it does, and why it's interesting.  
-**Technologies**: `React`, `Node.js`, `MongoDB`  
+**Technologies**: 
 **Links**: [View Repository](https://github.com/your-username/project1) — [Live Demo](https://my-project.com)
 
 ---
 
 ### [Project Name 2]
 **Description**: ...  
-**Technologies**: `Python`, `Flask`, `SQLite`  
+**Technologies**: 
 **Links**: [View Repository](https://github.com/your-username/project2)
 
 ---
