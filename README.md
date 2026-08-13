@@ -1,15 +1,55 @@
-## Hi there 👋
 
-<!--
-**milenacdg/milenacdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Miléna - Portfolio
 
-Here are some ideas to get you started:
+Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec, in France.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Personal Projects
+
+### [Project Name 1]
+![Image or screenshot if you like](link-to-an-image)
+
+**Description**: A brief description of this project, what it does, and why it's interesting.  
+**Technologies**: `React`, `Node.js`, `MongoDB`  
+**Links**: [View Repository](https://github.com/your-username/project1) — [Live Demo](https://my-project.com)
+
+---
+
+### [Project Name 2]
+**Description**: ...  
+**Technologies**: `Python`, `Flask`, `SQLite`  
+**Links**: [View Repository](https://github.com/your-username/project2)
+
+---
+
+<!-- You can also list projects using a bullet list -->
+
+- **[Project A]** – Brief description. `Tech1`, `Tech2` – [Repo](link)  
+- **[Project B]** – Brief description. `Tech3`, `Tech4` – [Repo](link)
+
+---
+
+## 💼 Experience & Education
+
+### [Job Title / Role] – [Company Name]
+📅 [Start Date] – [End Date]  
+- Key achievements / responsibilities (bullet points)
+- Technologies used
+
+### [Degree / Certification] – [Institution]
+📅 [Year]  
+- Specialization / honors
+
+
+## 📫 Get in Touch
+
+- **Email**: [milenacdg@gmail.com](mailto:milenacdg@example.com)
+
+---
+
+## 🙏 Acknowledgments
+
+A big thank you to [inspirations / communities / contributors] for their help and resources.
+
+---
+
+<!-- Don't forget to regularly update this README to reflect your new projects and skills! -->
