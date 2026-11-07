@@ -14,32 +14,6 @@ Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec
 
 ---
 
-### [Project Name 2]
-**Description**: ...  
-**Technologies**: 
-**Links**: [View Repository](https://github.com/milenacdg/analogic_circuit_simulator)
-
----
-
-<!-- You can also list projects using a bullet list -->
-
-- **[Project A]** – Brief description. `Tech1`, `Tech2` – [Repo](link)  
-- **[Project B]** – Brief description. `Tech3`, `Tech4` – [Repo](link)
-
----
-
-## 💼 Experience & Education
-
-### [Job Title / Role] – [Company Name]
-📅 [Start Date] – [End Date]  
-- Key achievements / responsibilities (bullet points)
-- Technologies used
-
-### [Degree / Certification] – [Institution]
-📅 [Year]  
-- Specialization / honors
-
-
 ## 📫 Get in Touch
 
 - **Email**: [milenacdg@gmail.com](mailto:milenacdg@example.com)
