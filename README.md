@@ -46,10 +46,5 @@ Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec
 
 ---
 
-## 🙏 Acknowledgments
 
-A big thank you to [inspirations / communities / contributors] for their help and resources.
 
----
-
-<!-- Don't forget to regularly update this README to reflect your new projects and skills! -->
