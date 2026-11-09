@@ -1,4 +1,4 @@
-# Miléna - Portfolio
+# Miléna 
 
 Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec, in France.
 
