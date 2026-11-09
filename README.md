@@ -15,7 +15,7 @@ Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec
     <a href="https://github.com/milaan9?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
    
 </p>
-<table align="center">
+<table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
     <tr><td> French ★★★★</a></td></tr>
     <tr><td>English ★★★☆</a></td></tr>
