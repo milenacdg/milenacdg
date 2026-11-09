@@ -1,6 +1,7 @@
 # Miléna - Portfolio
 
 Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec, in France.
+--- 
 
 <table align="right">
     <tr><td><img src="https://github.com/milaan9/milaan9/blob/main/3898082.svg" width="25"> Languages</a></td></tr>
@@ -10,7 +11,8 @@ Welcome to my portfolio! I'm Miléna, an engineering student at CentraleSupélec
     <tr><td>Japanese ★☆☆☆</a></td></tr>
 </table>
 
----
+--- 
+
 
 ## 🛠️ Personal Projects
 
